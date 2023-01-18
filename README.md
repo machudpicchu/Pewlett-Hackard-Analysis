@@ -4,7 +4,7 @@ The Pewlett Hackard company has requested an audit of their employees in order t
 ## Results
 ### Point 1
 The first result was to create a list of all the job titles held by people of retirement age and to count the number of potential retirees will be vacating each title in the next few years.
-![Number of Titles of Retirement Age](http://url/to/img.png](https://github.com/machudpicchu/Pewlett-Hackard-Analysis/blob/main/Module%207%20Count%20of%20Titles.png)
+![Number of Titles of Retirement Age](https://github.com/machudpicchu/Pewlett-Hackard-Analysis/blob/main/Module%207%20Count%20of%20Titles.png)
 ### Point 2
 Reviewing the data from Point 1, one can conclude that Senior Engineers and Senior Staff are the two most common titles by far where people will be retiring by a ratio of 2:1 among all other titles.  Managers will be least affected with only two employees nearing retirement age with that title.
 ### Point 3
