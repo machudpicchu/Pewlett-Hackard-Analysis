@@ -36,4 +36,4 @@ The number of qualified, retirement-ready employees in the company who are ready
 
 ### Additional query #2: How much would the employee pool for mentors expand if the age requirements were expanded from a single year (1965) to include 1964 to 1970?
 This would expand the number of employees from roughly 1500 employees to 19000 employees, which would significantly increase the number of potential mentors.  This was ascertained using the following code:
-![Number of Potential Mentors Born Between 1964 and 1970]([http://url/to/img.png](https://github.com/machudpicchu/Pewlett-Hackard-Analysis/blob/main/Potential%20Mentors%20Born%201964-1970.png))
+![Number of Potential Mentors Born Between 1964 and 1970](https://github.com/machudpicchu/Pewlett-Hackard-Analysis/blob/main/Potential%20Mentors%20Born%201964-1970.png)
